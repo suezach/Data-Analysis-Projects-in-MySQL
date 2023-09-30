@@ -1,10 +1,10 @@
 # Data-Analayis-Projects-in-MySQL
 
-# Overview
+## Overview
 
 This repository contains a data analysis projects leveraging the power of MySQL, aimed at uncovering valuable insights from a dataset. MySQL is used as a database management system to efficiently store, query, and analyze data.
 
-# Project Highlights
+## Project Highlights
 
 ### Data Exploration: 
   Explore the dataset to understand its structure, content, and potential challenges.
@@ -21,20 +21,20 @@ This repository contains a data analysis projects leveraging the power of MySQL,
 ### Visualizations:
   Visualize key findings using MySQL's capabilities and integrate with data visualizaion tools.
 
-# Tools and Technologies
+## Tools and Technologies
 
  MySQL Workbench
  MySQL database
  Tableau
 
-# Project Structure
+## Project Structure
 
 'data/' : Contains the dataset(s) used in the analysis
 'scripts/' : SQL scripts for data extraction, transformation, and analysis
 'results/' : Output files, reports, or visualizations generated during analysis
 'docs/' : Documentation or project-related documents
 
-# Usage
+## Usage
 
 1. ### Setup database:
      Ensure you have a MySQL database setup. You may use provided SQL scripts to set up the necessary tables and populate them with data.
@@ -43,7 +43,7 @@ This repository contains a data analysis projects leveraging the power of MySQL,
 3. ### Explore results:
      Review the results and any visualizations in the 'results/'directory.
 
-# Acknowledgements
+## Acknowledgements
 Maven Analytics Advanced MySQL 
 
 
