@@ -1,4 +1,4 @@
-# Data-Analayis-Projects-in-MySQL
+# Data-Analyis-Projects-in-MySQL
 
 ## Overview
 
